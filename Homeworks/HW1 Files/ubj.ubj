@@ -1,0 +1,8 @@
+Mouse["Family"]≔"Muridae"
+Mouse"Family"≔"Muridae"
+Mouse["Order"]≔"Rodentia"
+Mouse"Order"≔"Rodentia"
+Mouse["Class"]≔"Mammalia"
+Mouse"Class"≔"Mammalia"	
+Export("mouse.ubj",Mouse,base=homedir)
+81
